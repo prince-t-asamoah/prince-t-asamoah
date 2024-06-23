@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Asamoah</h1>
-<h3 align="center">A Front-End Developer from Ghana</h3>
+<h3 align="center">A Front-End Web Developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-t-asamoah&label=Profile%20views&color=0e75b6&style=flat" alt="prince-t-asamoah" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/asamoahpt" target="blank"><img src="https://img.shields.io/twitter/follow/asamoahpt?logo=twitter&style=for-the-badge" alt="asamoahpt" /></a> </p>
 
-- 🌱 I’m currently learning **PERN Full Stack Development**
+- 🌱 Currently working as a Front-End Web Developer at <a href="https://amalitech.com/" target="blank" >AmaliTech Services GmbH</a>.
 
 - 📫 How to reach me **prince.t.asamoah@gmail.com**
 
-- ⚡ Fun fact **I love anime and electronic music**
+- ⚡ Fun fact **I love anime, classical, and electronic music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Asamoah</h1>
-<h3 align="center">A Front-End Web Developer from Ghana</h3>
+<h3 align="center">A Full-Stack Web Developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-t-asamoah&label=Profile%20views&color=0e75b6&style=flat" alt="prince-t-asamoah" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prince.t.asamoah@gmail.com**
 
-- ⚡ Fun fact **I love anime, classical, and electronic music**
+- ⚡ Fun fact **I love anime, music (Classical, Electronic), and all physics about quantum mechanics **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
